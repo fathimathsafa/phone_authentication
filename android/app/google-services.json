@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275915413171",
+    "project_id": "fir-study-f9e6d",
+    "storage_bucket": "fir-study-f9e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275915413171:android:e23effc4475deaebf582c6",
+        "android_client_info": {
+          "package_name": "com.firestudy.firebase_study"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBluUGr3dHo-ViVrDSu7V3wCvwzCE54qoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
